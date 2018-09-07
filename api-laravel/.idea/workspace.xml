@@ -1,0 +1,3084 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c3f5cb6-9b6b-42f4-9f8f-bba029d414aa" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="apilaravel@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="apilaravel@localhost" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="apilaravel" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="api-laravel" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="UserController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UserController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1587">
+              <caret line="69" column="45" lean-forward="false" selection-start-line="69" selection-start-column="45" selection-end-line="69" selection-end-column="45" />
+              <folding>
+                <element signature="e#40#68#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CarController.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CarController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="975">
+              <caret line="168" column="44" lean-forward="true" selection-start-line="168" selection-start-column="44" selection-end-line="168" selection-end-column="44" />
+              <folding>
+                <element signature="e#40#68#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Authenticate.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Middleware/Authenticate.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="49" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="User.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/User.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JwtAuth.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Helpers/JwtAuth.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1311">
+              <caret line="59" column="11" lean-forward="false" selection-start-line="59" selection-start-column="11" selection-end-line="59" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".env" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2014_10_12_100000_create_password_resets_table.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="dummy://restClient/response33.json" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/database.sql" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/app/Http/Kernel.php" />
+        <option value="$PROJECT_DIR$/app/Car.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/app/Providers/JwtAuthServiceProvider.php" />
+        <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/app/Helpers/JwtAuth.php" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/UserController.php" />
+        <option value="$PROJECT_DIR$/public/index.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/CarController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="http://apilaravel.com.devel/" id="aba43153-32f3-4585-a371-c37b9722f2c4" name="Wampu" />
+      <server host="apilaravel.com.devel" id="20beb47d-9529-4fd7-8899-1808b652721d" name="apilaravel.com.devel" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.5" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api-laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api-laravel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api-laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api-laravel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api-laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api-laravel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api-laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api-laravel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api-laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api-laravel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Providers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api-laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api-laravel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api-laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api-laravel" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../podcasts" />
+    <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1536229041000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImtTUlwvb1p6TlhmNHFHQ2lSenBYSHRnPT0iLCJ2YWx1ZSI6IkZoV0dEaCtBRDhjU0psMGE1MWM2dXo5ejdLQSsrWVl0a0J3WjA0WTlGaXBKVlo2Y284YWNIaXJXSGcycmY5c3R3YjN2ZFNGUG9BWEh3aVwvelJiN2w4dz09IiwibWFjIjoiYTkwZDAzNTNiZTk2ZTRmNmMxZmFlMjA5ZmI4YjczNGI5YWNhYTMwOGU2MWVmMmQ3NjQ1YjRiZWE2MTQzNTJhNCJ9" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/login" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/x-www-form-urlencoded" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{&quot;name&quot;:&quot;Santy&quot;, &quot;surname&quot;:&quot;Fernandez&quot;, &quot;email&quot;:&quot;admin@admin.com&quot;,&quot;password&quot;:&quot;admin&quot;, &quot;getToken&quot;:&quot;false&quot;}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{&quot;name&quot;:&quot;Santy&quot;, &quot;surname&quot;:&quot;Fernandez&quot;, &quot;email&quot;:&quot;admin@admin.com&quot;,&quot;password&quot;:&quot;admin&quot;, &quot;getToken&quot;:&quot;false&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1536229017000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkNDSkRZdWtFUzE0cmUwSm0wczNtS2c9PSIsInZhbHVlIjoiWm9GazFnYlwvdkhnQUVyTFdqMVFydkVZc240aGU4YW9sQnI2SVNucGJva3VFSUgwZ0pFbU5XRVdpcWlKTHZUSm5UT3RJa1VXYkNEMFpuU0Ribm1VMEJBPT0iLCJtYWMiOiJmNzZkMDRkNTM2ZTg4NDcwNGZkZjUwZjBlZTVhYTFjNjcyMTIzZmE1YjY2ZThiMTI4YmQ4NTM2NzU5NDQzODUzIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/login" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{&quot;name&quot;:&quot;Santy&quot;, &quot;surname&quot;:&quot;Fernandez&quot;, &quot;email&quot;:&quot;admin@admin.com&quot;,&quot;password&quot;:&quot;admin&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1536229014000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlVcL1BuaHlhc2JWUWJycG5yZmFKbjdBPT0iLCJ2YWx1ZSI6IkRaUFhHbW9QNDlLdnlKdE9GOXpzcjFkZ2F6bGpuWWV0MnFweE9ncitCdUc4WERvT2oyY215TW5HSlwvbWwxdHd3VUtzUXM0NDlLSjhmU3RValwvNnNXM1E9PSIsIm1hYyI6IjVkYzZiZWNiMTY4YWMyODQwNDU2ZTkxMTA2YTI2ZTFkZTViOTliNjVmOGNkYTlhN2Q3ZWEyNzIwY2Q4MDY2MTYifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/login" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{&quot;name&quot;:&quot;Santy&quot;, &quot;surname&quot;:&quot;Fernandez&quot;, &quot;email&quot;:&quot;admin@admin.com&quot;,&quot;password&quot;:&quot;admin&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1536229007000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjF1OWs1NUVSMVwvNU5IUTdRbFQ5WEt3PT0iLCJ2YWx1ZSI6Im1uWm1iWk5VcHJoYmg3Z1hNS3dDQUFGN1VRWmhzeTIwcFV0eVJmeDhtYnc0Wkg1WEtOZ1BRekNrMG9uYjN3Ynk4UkREYlwvQ1htTXhJZncxVFBpNVdIdz09IiwibWFjIjoiNjg1NWE1MWVkOWI1ODA0ZWNmOWZjZmM3YTM2ZDIxZDQ2MWE0MGM2MmUwOTAxOTg3Y2M2ZDQ0MmU4NDZmZmRkMiJ9" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/login" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{&quot;name&quot;:&quot;Santy&quot;, &quot;surname&quot;:&quot;Fernandez&quot;, &quot;email&quot;:&quot;admin@admin.com&quot;,&quot;password&quot;:&quot;admin&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1536228981000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IklCbFwvMTlrRXVRQkZBSHNCZ3JzSnJ3PT0iLCJ2YWx1ZSI6IklWajhYR0g0UzQ5OHR6QmVHeUVUcGRhdHhCcGk5eTAyQmpcL1hFZEdkMGVNMXNkbzlUaFhWU1VSTnl0TjVObmN6ZENCUlJqYWliTFhQdnBYSHdrd2VsQT09IiwibWFjIjoiNTAyMmY2NTA3NjZiMDVkYWFmZjZkMjlhMDU0N2I5ZmU2NmZkNjA3Yzc1YTNmY2ExMDEyMzU4ZGU5ZWM3ZGE3NiJ9" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/login" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{&quot;name&quot;:&quot;Santy&quot;, &quot;surname&quot;:&quot;Fernandez&quot;, &quot;email&quot;:&quot;admin@admin.com&quot;,&quot;password&quot;:&quot;admin&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1536228972000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkM1eTR3T0NVSmN2MUdWODNIOXl3R3c9PSIsInZhbHVlIjoiS1U3ZFl5YXo4cXJEQWc1N3dJT0VVMW84ODdDZjQ4NWhZclZyNEdPVFpDWWpFZWFLWmszbkFpTnlqeDJlcVRKemtLVFFuVGJ2NTVxRWxIRDhcL294Y1RRPT0iLCJtYWMiOiJhY2Y3MGM0ODBiMGY3MTFlNzExNTZkMzA3NTljOGI5ZjdhZWJkMzAxNzgwZTYyNDY2OTNhYjBkZjE3Y2ZiOTIyIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/login" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{&quot;name&quot;:&quot;Santy&quot;, &quot;surname&quot;:&quot;Fernandez&quot;, &quot;email&quot;:&quot;admin@admin.com&quot;,&quot;password&quot;:&quot;admin&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1536228942000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Imt1eVRhRGNSNlJpM3FcL0pKbUtxRERBPT0iLCJ2YWx1ZSI6IjlOcVBWbjk5UWlHZmk2cVhhNFZiTHNCbVpxY1RlV1hyQk5kVDRFWnRrcmZVYjJyQkZjM2RjK3pWaVF3UlVwU2JSdGFVVnJYSk9TMmFMS2hKalJPbkF3PT0iLCJtYWMiOiI5NmExMmVhNGNmZDIzM2ExZDI1Nzc3NmRkYzA1ODUzYzBiZjM1ZmI2YjkxODg5NzI3ZDk3Nzc3ZmRiNDhhMjM3In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/login" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{&quot;name&quot;:&quot;Santy&quot;, &quot;surname&quot;:&quot;Fernandez&quot;, &quot;email&quot;:&quot;admin@admin.com&quot;,&quot;password&quot;:&quot;admin&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1536228942000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Imt1eVRhRGNSNlJpM3FcL0pKbUtxRERBPT0iLCJ2YWx1ZSI6IjlOcVBWbjk5UWlHZmk2cVhhNFZiTHNCbVpxY1RlV1hyQk5kVDRFWnRrcmZVYjJyQkZjM2RjK3pWaVF3UlVwU2JSdGFVVnJYSk9TMmFMS2hKalJPbkF3PT0iLCJtYWMiOiI5NmExMmVhNGNmZDIzM2ExZDI1Nzc3NmRkYzA1ODUzYzBiZjM1ZmI2YjkxODg5NzI3ZDk3Nzc3ZmRiNDhhMjM3In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/login" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="{&quot;name&quot;:&quot;Santy&quot;, &quot;surname&quot;:&quot;Fernandez&quot;, &quot;email&quot;:&quot;admin@admin.com&quot;,&quot;password&quot;:&quot;admin&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1536228940000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Im1ITkhENmpGSEttUW4zVElrdGFncFE9PSIsInZhbHVlIjoicDNcL1RcL1wvUGtuZDZPSlBvRzNqRnhiYkYyZHFSWTI4QmlNSkYwdFo4aHI1TFhPVE5tUEM5WXFcL3F5NEg5SHJqTHlnQ3dEdGk4MFF4ZUhMZUd2cHpYT1wvdz09IiwibWFjIjoiNDk2NTg1M2EzMzQ3OGFiZGQ0MjI0ZTY4MjQ5NzQ3NzNmNGExNTAyYjA4ZWRlOTBlNDk5ZDRjYWQ4N2I4Nzc3NyJ9" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/login" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;name&quot;:&quot;Santy&quot;, &quot;surname&quot;:&quot;Fernandez&quot;, &quot;email&quot;:&quot;admin@admin.com&quot;,&quot;password&quot;:&quot;admin&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1536228933000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Inh5eDNDVkhmQnNRTGVIamFRTXY5cnc9PSIsInZhbHVlIjoiNDNUYk1kQjRIWkYzRlpuaTZcL2VsNG5pK241ajBDRkt6OW1ZbXBrZmVxQmtaR1oxbDBsaUprTjhseVgzT3A2eXh1RVdDNlU1RnFwRFp3NzlYU29zXC9HZz09IiwibWFjIjoiYzc4NDViMjM5ZTcxNGU2ODNjZDlkY2NlNTE5MzRhNTMwM2MxNzg0ODIxZjI1ODMzYmI1NGRhNjZhOGM3YmQyMCJ9" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/login" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;name&quot;:&quot;Santy&quot;, &quot;surname&quot;:&quot;Fernandez&quot;, &quot;email&quot;:&quot;admin@admin.com&quot;,&quot;password&quot;:&quot;admin&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1536228930000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlBkRDRjMjF3Rk90SitNY0VSNkZpUlE9PSIsInZhbHVlIjoiOXhFTHVzaUtZMjNKVytDWUl6N0dDVk9QRzd0NTdWbUluNVEyR0wwZzg1dEdJTW96WlgwZ1wvMWRDNVRSSXZRSVY0cVRcL0VTVTF5YTRVT3VPU2ppdXZFQT09IiwibWFjIjoiMjBmYmI4YWZkMWExYzIxMDMwN2MxNzA1YTEzYTA4NGIyNDkzNTM2N2NjM2YxNjllYzM3MTgyZGY0YzUyYjdiMCJ9" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/login" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;name&quot;:&quot;Santy&quot;, &quot;surname&quot;:&quot;Fernandez&quot;, &quot;email&quot;:&quot;admin@admin.com&quot;,&quot;password&quot;:&quot;admin&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1536228930000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IldyOXFwXC9pcEdjWEdqSU5wOGhCa253PT0iLCJ2YWx1ZSI6IlwvVGYrUEdMbWo3cjBkYzZDcXBpVmhkbWNBXC9jRUZqVjBGZ2JmSDdUYTVUMjN3Q3JvRmV2b2tmbW9ReGplZ3oxbDQ4WldKd2hEOU1BU25LSjRNMjZlOGc9PSIsIm1hYyI6IjM4MjQ0ZTBjNzliOGVkMTIwOTY5MzQyNDliOTUwOWQ2NDI4NDI4OGY2OTZjYTMyNjBkMjFhYzIxMjdlMjc3ZDEifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/login" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;name&quot;:&quot;Santy&quot;, &quot;surname&quot;:&quot;Fernandez&quot;, &quot;email&quot;:&quot;admin@admin.com&quot;,&quot;password&quot;:&quot;admin&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1536228928000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImhtYjRDdU16ZElONVpPSWgwa1FSSnc9PSIsInZhbHVlIjoiaEV1R1JFQUFvNG9oYzRseVdYN0NKYjgwUVByTUp5Wm9aV3JTTTVTM3lwM0RVdFBKc0NHWFBmZFc2ZHRzZjJYbWZcLzkrTEN1SGhKXC9SZnNvZmxIOHJQUT09IiwibWFjIjoiZjBhMGY0ZmRjN2I1ZjZlYWYzOWNhMDQwYjJlNDY5ZDQyNTY4YzlhOGY0YTBiOTdjYmIyYTJlMjk0NTBhM2FlZiJ9" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/login" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;name&quot;:&quot;Santy&quot;, &quot;surname&quot;:&quot;Fernandez&quot;, &quot;email&quot;:&quot;admin@admin.com&quot;,&quot;password&quot;:&quot;admin&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1536228265000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlhCWUVcL2lXdGYxd3BxMHlrdFI4dXBnPT0iLCJ2YWx1ZSI6Im5aSnFQVUFrVndzNXFiVFpvRk9ENVRwdmhKK2ZrVVZOZ0gyTGtcL1JaVkl5Wk83UUpockdrV3JMWk1Qd01kUUFoY29VTWNpTCtyZHZmRGNkSzZKS0hiZz09IiwibWFjIjoiYzdkNTM4Mzg3M2RlYzE0N2I1ZTNmMjk5OGRlZjNkZDdmNDUxNDg4MDkwMDdkNDhhMjZjMjhiODhhOTMyYjc2NiJ9" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/login" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&quot;name&quot;:&quot;Santy&quot;, &quot;surname&quot;:&quot;Fernandez&quot;, &quot;email&quot;:&quot;admin@admin.com&quot;,&quot;password&quot;:&quot;admin&quot;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531854424000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IitsY1pqZThIemJ4emZsK1NKdFl5M3c9PSIsInZhbHVlIjoiOVczVXNkTUxSb0lKMUVBeXRYNDJpUDd6OVNUM1hcL2c0a3hOeWZ0U09PR1lHSjBGNmE3OWpYZXRZUFBqQThXa0RuSVBlWlhDMk5yQlowbmxwekdDdmpRPT0iLCJtYWMiOiJiNTg1ZGI4ODZjZDQyNDExNGE5MGRkN2Y4MmJmOTgyNjJhMzg0YjA3MzQ2YjQ3MDViZTgyZmU0MWJjYWVkNWRhIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/login" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/x-www-form-urlencode" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'email':'david@david.com','password':'admin'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531854424000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IitsY1pqZThIemJ4emZsK1NKdFl5M3c9PSIsInZhbHVlIjoiOVczVXNkTUxSb0lKMUVBeXRYNDJpUDd6OVNUM1hcL2c0a3hOeWZ0U09PR1lHSjBGNmE3OWpYZXRZUFBqQThXa0RuSVBlWlhDMk5yQlowbmxwekdDdmpRPT0iLCJtYWMiOiJiNTg1ZGI4ODZjZDQyNDExNGE5MGRkN2Y4MmJmOTgyNjJhMzg0YjA3MzQ2YjQ3MDViZTgyZmU0MWJjYWVkNWRhIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531854369000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkdremlwVGtORldSeTRVM2JCT1wvaUxBPT0iLCJ2YWx1ZSI6InB1d3ZkMjkxU2RETTBGOEdCK2wwSUJJQXhiNWlGdUxCVFJKUjNGRFZMZ0JCSkpkWDgxTlRRWERvXC8xVjV6eFRnTVUyeEpBVEZ6cnk1SkpSK0xtSjZUUT09IiwibWFjIjoiOGY1YjA3MjExNzgxMDNhYTYwMzJjOTIyNDM1NWRhMzNhNGMyNWZkNzQ3OTVkNTk0MzA1YzE1M2E5MjQwODkzYiJ9" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531781885000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkpZU29sTFZScXRnMVwvakc3XC9mb3F4UT09IiwidmFsdWUiOiJYczdacVwvclJpNFwvNHFGOEJDVHhcL3hKcVJrZFB5RWVFeHlSTmVPSzRsdTFoODl5dXFNQ2pPTVNGMDlkRys3Z0dzejQ4UmcweFV0dnVKaERQYUdobjhOUT09IiwibWFjIjoiMjFjMzg1NzY0YjdlMTZiMzg5NWM5ZTJjODUwMjg0Yjg2OTA2MDc1MzQxNGYwNzUwZjAwMGYyMGNiNDk1ZTNhMiJ9" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531781852000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ilh6RkdaeFVXdlprUUZveXB1UDNYZEE9PSIsInZhbHVlIjoiVWNoR2NtaFlQOFJGVU9yalVhcGZSUFBzdUk2SW1MOGJONDAxenpsK0FzdEs4OEx5Tjg2ZnNscEdlNXVVY1JVUWsyMUJLTXdmMFR2dXRoc2xOMGhuQlE9PSIsIm1hYyI6IjQ4M2QxMzBlNDU0NDBhYjZiZDVlNjAzNmI5YTI4ZDE1MGNiOTRjNjY5NGQ3YTA1ZDY4MDg5YWViNWM0ZDM2ZmIifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531781827000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImdDd3BRV0I2bmVJWHJXT2oyekpCREE9PSIsInZhbHVlIjoicDY1SE95SHg1VXg1dmZlaWdteFNZVThDTjZVVG9BMWdyZnRqdDhVTTY0TzZja3JqR25RWkR6SmxuUXVcLzY1RjdlNFY0b0F2RGxDa3ZxTnpVdUhWU3lnPT0iLCJtYWMiOiJmNjVmNmQ0NGJiNzkyMzgyMzEwYTYxMzQ2OWQ5Y2IyZWIyMDRiZjMzNjZkZDBjNjY4MTc1ODcwZDFkNzEzOTAwIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531781562000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkowSXRWOTJBVWsxT01GdFFcLzRJVTdnPT0iLCJ2YWx1ZSI6IkUyb0c2VVp6dlU0ZHlreFhQNU9qV3k1enppdUVHNTR3WGROMXlONXdpdmZyclpzSXFqbkIyZUVzd3QxOGRzcmFHS1d1UmFcL0Fqa294eTBadUxLcWRVUT09IiwibWFjIjoiNTU5YjlhYWRlZjM4ZGI1NTYzNmE5ZTY3MmRiMWFmNDgwNWNmZjc1OWRiYjMyMjVhMjVkNDRmODEyMTg0NzU0MSJ9" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="&quot;{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}&quot;" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531781562000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkowSXRWOTJBVWsxT01GdFFcLzRJVTdnPT0iLCJ2YWx1ZSI6IkUyb0c2VVp6dlU0ZHlreFhQNU9qV3k1enppdUVHNTR3WGROMXlONXdpdmZyclpzSXFqbkIyZUVzd3QxOGRzcmFHS1d1UmFcL0Fqa294eTBadUxLcWRVUT09IiwibWFjIjoiNTU5YjlhYWRlZjM4ZGI1NTYzNmE5ZTY3MmRiMWFmNDgwNWNmZjc1OWRiYjMyMjVhMjVkNDRmODEyMTg0NzU0MSJ9" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531781481000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlwvR216XC9UK2xicWw1dFJaNmxKSWZZQT09IiwidmFsdWUiOiJtU1YrWHNtN3AxWFJvTTgxTWFBbWx4V25ZWE5Ldm1cL1hxZmN2VHpxbUxBTXZlS2xueHVmSkdDVnBxRVdKQzg0R24zd29zSHJuVE1IS0FjZTdZcXAzYUE9PSIsIm1hYyI6IjAyYTFiMjQ3N2VhN2QwMDU1NmZkOGEzNTIwMzQyMjBmNmM2MmZkMDRlZDg3ZjNmYTE4Mzc4MDg3ZmZhMTM5NDEifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531781469000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Im1uTWJWMXlFalFOXC91U3lsOWJzdVBRPT0iLCJ2YWx1ZSI6ImN3UEJZTHNORW9qN0FpQnBBOWFRcFBcL1hUc2gzaVdHWEE0SGdsTXNXSFNZNlc2NlBMMUoyRkZXc3NKTjVnS0J2RjRNTkJ4am1IQkZlZ3JhR1B3XC9TYVE9PSIsIm1hYyI6IjQzNGYzODkzY2JmZGEyMjc0MWYwYjQ2M2YyOWFlMTQxYmExNzgzODYxZWJmNjg1YTExM2EzY2NlODZlMmQ1NDUifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531781285000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImZFbDZ2QUZlV29UcnI2NFJENEdtXC9RPT0iLCJ2YWx1ZSI6ImpXK3BoQWtCVDh0Rys4dlkrT2dIOGRhVjdPMnFSQ1pjdzlTemttc1p1eTBPYTUyaFwvNWpaRFpUdFFNNXJLT05sMFljemVZdXp3QzNzaEkrRHRKQ1YyZz09IiwibWFjIjoiZWZhYTZmZTY4OTcwOWJlYWYwYmE5NzI5MjEzZDM3ZDBhNjA1OGY1MmM4OTEyM2RiODZiM2ZjOGVlOWZiNTRlNCJ9" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531781187000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImhaU1p1VzNCZ3VseEZObUpjTGJyaFE9PSIsInZhbHVlIjoiZzV1dnR3M2lDXC9ZUlFlR3NTaVpia1ZCTUV2WkRqK3l4a1hiM2dnamFRYXc4Vm1salJrcDg5UzVFb2NTQXdoSTVmTDhqazYzd0xNUGcrdGFvTDdBVW9nPT0iLCJtYWMiOiJiYjQzMTFlM2IyNjkxNWNlZWU5ZThiMmNlZWRkOWU5MTFmMmJhMDExZTYyNDY4NDMwNDVhMzRjYjRiMDhiNDMwIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531779211000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InJtQnZtWXpsSllhNGhod3orbjBvenc9PSIsInZhbHVlIjoiSUZkYWNSQW1NY1VyV3JoMUJSQkYrY0FZbU9RTW5uWXRFbWpNODBWMVdYTm5hWGxuSFlsMDlhOVhMYU9DWGRGWUlhYUNRamc1RUMyQkNkcGxpMnY5XC9BPT0iLCJtYWMiOiI3OGRiODc0YjZiZDE2ODFjOTIxNjQ5YTc3ZDg4YTQ3ZTk2ZmFkMmRkNzYyNjMxZDE0ZDJjOTViOTIxNGEwYWZiIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531779083000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Iis2Mmlobnk1UkEyQXlNeGJ0Tk5cL0FBPT0iLCJ2YWx1ZSI6ImExYTlJazNpdEdUbmZzUmFzRUR6TjZYMEZlWENMVnNPZjMxbGNqUUllZ1VjOG1BUEdENHlIM1FUbjI3b1o4eHV2RUtiVjJzeVV1aUgwdFZsU3FoamJBPT0iLCJtYWMiOiI0MWE5NDFlNjVkZGVkYjIyOGFlYzdlMzFlNWUwOTNkOGMyZWE0ZmIyNmM3MTdiMTljMWIxM2ZhZWM4YjBmOWE4In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531779507000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlRFaTFwVVE2TGZmZTNHUmtwOGNzWkE9PSIsInZhbHVlIjoiY2lcL28wMkZlTjhkMTJzbmVmcVBIMStnWTc0ZkZra3U4RmRXK0NoSWk4Znk3cGhNVHl5RFpDYTFhUGFGcGdvd3NkbE04RDNCb0dIT0NJK3Y3N3A5M29RPT0iLCJtYWMiOiI3NjNlN2Q1NzUwYmYwMDk1ZmZlZGM1NDZmZjZhZjAwYzU5NmYyNjg0MjUyNTgyMTVlMTFkZTdiZjgzZWU4ZDRiIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531779477000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlZ4c2E1R1dSM2lCUGdFZmlQXC9KK1l3PT0iLCJ2YWx1ZSI6Ik9rdSs4eks0Y04xdTBiOENRS2lmS0UzejNWMk1qblloZTYxK1E2blR0YXdMem9CNlFuOStmRkxOQ0VqTFBGM0pvaGl6Znk1T2xLM0ZNSWVtU0hkUlJRPT0iLCJtYWMiOiJmOGMzZGMwNWJiMzM4MjZjN2RhMWZlZjAyY2M0ZGM1ZmY1N2NjMGE4MGM3NmQ1NmNkYmZhNjJhODg0NTM5ZTE5In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531779436000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImR4N3VhR3FrYldWeVZKaGlvMU1TaGc9PSIsInZhbHVlIjoiclh0VXN6NWVrM0hJakJNSlRYSW9cL2Q3TCs3M2xYSG9HSmZxYWJIVnBYWjVzcWdQWUNUYWVWekNPZUR5NFF3R3Q1ZzBRWEdSYnFZUDJVK2R1cm96SVR3PT0iLCJtYWMiOiI5ZWViMTY1YWI2YjZmMmNhYjhlYWRhYTRjNmY3MDRlMWFlMTY4NmI5ZmU0YTU2MjRjMTc5MjU0ZTZlNTdlNDc1In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531779435000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImVrYzVNbm1MZVNcL0ZXdUVUc2J0UXl3PT0iLCJ2YWx1ZSI6Ik1IbVwvdXBwQXB4S0xSNTlCSkNkXC9oMHVSNFY0ankwTE04UzA2c1Q4bnpvXC9FQW4wXC9MNnNvejg5QXpnWTNYaFhVQkxuWkhsMGJUMERhd2FiR0lzeGhKQT09IiwibWFjIjoiMGExYWI3MDY3NGE5ZmJkNzg1MGMwNGVlMmU1NDRkNmI1ZTZlNmNiMGEzYjg0MzYwYTJjZDU4MmJhMTdjNzk1NSJ9" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531779408000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IldRVmU0dEZHcnFNUmlNbjA2QXV2dUE9PSIsInZhbHVlIjoienlHTFh5TUJMcDhPRUJ5R2Q3MUNmT3ZXWkFRWUkraFIwZEV6NWRwVmZoUm5WVTFESmpjamx2bDRHaVp5S0N1NDQ5dEZSOExTZTh4NnlNaVpMd1dISVE9PSIsIm1hYyI6ImI2M2VhMzVlOGFiMDA2NmIyYTNlNDhhMjdiMjBhMjJkOWNkNzkwNTk0YWZhN2Q2MjlhOThjZTMyNTFiZmRlZmEifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531779280000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImtTbU1NRXJaQ1JFYWxLWng2RHRuWkE9PSIsInZhbHVlIjoidXlnYlIrWFZYMVlTcWZLRG9HOFNmWmtKaDhPc3I4b3pqZTZBKzdRVWVScGFtelFEempcL2Fla2tDSUt3bDkyemFRckRIRVQ2eEh1azh4V3RnSVhqN2pBPT0iLCJtYWMiOiIzYTlkZjgyYTVlZTcwYzc4YjJhNWE1Y2YzYjIyMGFjNDUwMzE5Y2Y3MDA3YTEyNDk2ZTE0YmY5YTEzMGU3MzlmIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531779258000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ik4rVW01em0wMmJkRGlpXC91OXdCYmF3PT0iLCJ2YWx1ZSI6IjJvWXRrYjRiYktEUHlOSzBYb0J3UlMwQ0dcL0wxN2pZaCtheWJZMDF0ZGFoTFpvaXFyM0JxV090VWxySFJ6dWNUeXZ1UmFzVk10b1NEcmdIeW5WQWJxdz09IiwibWFjIjoiOTJmY2I4MzZjZTMzMDlkMzMzNjFiZjBhYTNjZTU1ZDAwMDVhZTA0ZmVkNjQ2OTMxMmI3MDU2ZTQ2M2NlMDA4NSJ9" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531779223000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkxPU2lEK3ZpR01rbmpGeG15SjZ2UkE9PSIsInZhbHVlIjoiOGZ6WU9vXC9RV3hHVklWMHdcL0ZcL1BrR0pRa21vaHBZK1RvQlJTWlRrN1hVdUNPZUt2VExuRTFyRWxxeDFDZVdTTDVFN1M4eGlSNFJYcXZ3dktzSTMyNFE9PSIsIm1hYyI6ImU4NGRjMDhjNTdlYjVhY2QxYjgwZTM1NjY1MjAyZjE1MmVlNmY3NWVlZDU4MmFlZjMzNzVkMTA0NTFmY2FhNzcifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531779221000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ik96TmpwUzFjWmlIS1wvVDJ2NUNYZTFBPT0iLCJ2YWx1ZSI6IkRjcWVXRXhtVkZVS1hsWCtxWGlxZFpnY1R3NWVXXC9TcUZ2bW9mdUM1TnNGcHVGdVEyUm9yZTFudEtTb0lUOWFPNjM3NEo5NmgwN1VXb1IzMFJFXC84S3c9PSIsIm1hYyI6IjFkYzEyOGU4OGQ2ZjdiNWY0YjkwODJlMGRiMzJmYWUyODg2Mzg2MDljNzBjNTllNjZkYWM0MjM4NDZmNzRhNjMifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531779044000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InIzVFRmb3FjT1MxN2g3Ukx5MWZwaXc9PSIsInZhbHVlIjoiMTROcFk4N0RKNEkzR1RTUHRJQzAxYitTQmtnUlpTRVwvTHN4bGRTOFVGXC95dlhYWktRaTV3MElYSTRydytmWEhBQnJjaXBNY1JSSnRXMytMVDdsa21iZz09IiwibWFjIjoiMzQ2ODZkNzM1NGQ5OTRkNTRjZGRlODQ0NjBjYTE5NWQ1ZjU5NjYzYTJhNzUxYjg0ZWNiOWViNTI3OGYzYzg0MCJ9" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{&quot;name&quot;:&quot;Lara&quot;,&quot;surname&quot;:&quot;Sanchez&quot;,&quot;email&quot;:&quot;lara@lara.com&quot;,&quot;password&quot;:&quot;lara&quot;}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531778938000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InU3bzFMMGpKc0lFbHl1empWT01RZFE9PSIsInZhbHVlIjoiNkhqa1RMTWc1MmdLWk5nR05ZMU80R1NGeFY3MCtIV1VSMjNUS1JWMjNkUHRIT3FqS0RTOE8xQkpzTmJSVUZCbUh6TnA4bVVkUVFLaFd1MVVZakF2VlE9PSIsIm1hYyI6IjJjN2ZiMTczZTdmMDhlNWY1NWRjNDE1NmZiNDUyNWM3MzUzMGNhMGUwNzg3NDI3Mzk5ZDdhOGEzZTY3NmRkYzMifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="&quot;{&quot;name&quot;:&quot;Lara&quot;,&quot;surname&quot;:&quot;Sanchez&quot;,&quot;email&quot;:&quot;lara@lara.com&quot;,&quot;password&quot;:&quot;lara&quot;}&quot;" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531778850000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ik9iWDlvazNNcGNzOTRWb2tyK1lnbWc9PSIsInZhbHVlIjoiVTltRHJKa1c1eEpkUU11U1RPRE5RMFlrY0dWa3JkQmRTK3BOcHFuWXNXN1JxOVdQdDhnRDBmU0JEM2h0Q0tpbmtLVzhRQmRnZHF4cDBBdE5PNDhXMnc9PSIsIm1hYyI6IjI1OTcyY2ZlOTA3NGUzMWZjN2ZmMmFlODkwNzcwOGU3MmE4YTllMjE2YmIwODRlZWJhZDIyZTY2ZmZmOTlkMmQifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="&quot;{&quot;name&quot;:&quot;Lara&quot;,&quot;surname&quot;:&quot;Sanchez&quot;,&quot;email&quot;:&quot;lara@lara.com&quot;,&quot;password&quot;:&quot;lara&quot;}&quot;" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531778529000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InBQc3ZrWmN0UG5ISXZ6QktmV2VadEE9PSIsInZhbHVlIjoiRGVkNGdcL0pvZlNENTFhaE1Ja3E4R1EyRkczV1VObEtRUHBiTmVqUkdjc1JkZFBJMkp4YjgraUE5SXRwNzVnXC9mTW5Xam9QWjluMXcxQlBJYTdrUFwvUlE9PSIsIm1hYyI6ImFhNDEwNGEzMDA4ZDJlNzZjZmRkMDUxZmU1OWQxOTI5MjgxYTA2ODhjMGYwYTViMmVmZjUzZTE3YzA2YjkwMWMifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="&quot;{&quot;name&quot;:&quot;Lara&quot;,&quot;surname&quot;:&quot;Sanchez&quot;,&quot;email&quot;:&quot;lara@lara.com&quot;,&quot;password&quot;:&quot;lara&quot;}&quot;" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531778529000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InBQc3ZrWmN0UG5ISXZ6QktmV2VadEE9PSIsInZhbHVlIjoiRGVkNGdcL0pvZlNENTFhaE1Ja3E4R1EyRkczV1VObEtRUHBiTmVqUkdjc1JkZFBJMkp4YjgraUE5SXRwNzVnXC9mTW5Xam9QWjluMXcxQlBJYTdrUFwvUlE9PSIsIm1hYyI6ImFhNDEwNGEzMDA4ZDJlNzZjZmRkMDUxZmU1OWQxOTI5MjgxYTA2ODhjMGYwYTViMmVmZjUzZTE3YzA2YjkwMWMifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531778375000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImNxUEVLTUxxRGRIOEJ0U3Y4elBqcGc9PSIsInZhbHVlIjoidWhlaFJpVjNESFNnTGtvUUZMakROUnM5RWQwXC9lSWhnUkVKbDQ2c1B6YUVHMkt4NEpDbFpsc3NXYXdjZHlpTXAxWDFsUHBFUEswRll1dnVhcGJEXC9MZz09IiwibWFjIjoiYmJjMmRkOGIyM2ZiNTM0OTdiNmYxNzk5NzMwNmJhMDNkZDJlMDRhY2E4ZmY1NDIwMzljNTNhOWNlMTNhOTMwNiJ9" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531777962000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkQ2QitoaGRGeFdLY2llNXV1WExcL2t3PT0iLCJ2YWx1ZSI6ImowVG1UcE9TUHZDbnJPak9DUTI3azFWcTVcL1RvVkxKN1lGU3ZhZHRJcDdMYk9CXC9LVFJFUVJOS3NNTjhCK2ozUEIrRldUTFRBNGZXMVZcL2V0N0t4TkJnPT0iLCJtYWMiOiI5YzMxYjI3Mjk0Zjk0N2M2MThlOTE5ODIxYzMwNTlhOGU4ZTAyNDQzZGM2MzRkY2U4YjM3MmY0NTA1MjA5YjY2In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531777792000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImtKTXBycTJQWVdLUmZlcEl1dFVjbUE9PSIsInZhbHVlIjoiRjM2VFpSNXJwQ1wvU2lhb0JnMW9UalZwOXVHXC9HSE9YY2hVd1pabkVnTmRXeExjSmZaQ09hNG1jK3dVa2ZrK2Q3MW0zU1NcL0NrQ1ZWNkh2QkREQ2psNVE9PSIsIm1hYyI6IjM5OGZjNzQ0ZDVhMWE4YjE4M2ViYjFjOGMzZDZmNWE3Y2NjMDY4MDc2Mzk0MzY5OTdkMDFmM2E3YTMxMDMwMzIifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531777533000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjFUNFgzQmRqb3F6RzNDOVk0dXB1alE9PSIsInZhbHVlIjoiallWRWFKRHZXc3VDQzY0bGRIdTJaTU50R0lBdXpFa1BkNGlySEpBNjZFOENKeStXTUlROEpZU3Y0WGxyV3l2aDFRcjhPeUN0Mm5LRWFaNThzcmU2blE9PSIsIm1hYyI6IjUxYTgwNmJhMTVlY2E5YTU2MzA5OGM5NzZiZTdmNDZmMGZlOWUwMmE4MWFiNTRjYTJlMWU4NjFmNzM1NmNkMjMifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531256480000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjMzaHpNK2xhMWl0bTJBWFBGU1NBQVE9PSIsInZhbHVlIjoiZW5VR0QzZ2p4MWR3K2ZURE5rR284M0E0UlphNThWcXZvRGhQek5KRHEzMXBVbXFuVUtWSlNod3FVVVNFYStGY2pJR29Cc0JiTk1IQVZVN2pnOURnOGc9PSIsIm1hYyI6ImFiZmZhMjA3YWQxNjM2N2M1N2E2OGUyMjJlMWFhNGE4N2QxOGIyMTA5MzIwZjM5ZDhkMzhiZjI0ZmY4YmFmMzUifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531256480000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjMzaHpNK2xhMWl0bTJBWFBGU1NBQVE9PSIsInZhbHVlIjoiZW5VR0QzZ2p4MWR3K2ZURE5rR284M0E0UlphNThWcXZvRGhQek5KRHEzMXBVbXFuVUtWSlNod3FVVVNFYStGY2pJR29Cc0JiTk1IQVZVN2pnOURnOGc9PSIsIm1hYyI6ImFiZmZhMjA3YWQxNjM2N2M1N2E2OGUyMjJlMWFhNGE4N2QxOGIyMTA5MzIwZjM5ZDhkMzhiZjI0ZmY4YmFmMzUifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531256480000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjMzaHpNK2xhMWl0bTJBWFBGU1NBQVE9PSIsInZhbHVlIjoiZW5VR0QzZ2p4MWR3K2ZURE5rR284M0E0UlphNThWcXZvRGhQek5KRHEzMXBVbXFuVUtWSlNod3FVVVNFYStGY2pJR29Cc0JiTk1IQVZVN2pnOURnOGc9PSIsIm1hYyI6ImFiZmZhMjA3YWQxNjM2N2M1N2E2OGUyMjJlMWFhNGE4N2QxOGIyMTA5MzIwZjM5ZDhkMzhiZjI0ZmY4YmFmMzUifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{'name':'Lara','surname':'Sanchez','email':'lara@lara.com','password':'lara'}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531256480000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjMzaHpNK2xhMWl0bTJBWFBGU1NBQVE9PSIsInZhbHVlIjoiZW5VR0QzZ2p4MWR3K2ZURE5rR284M0E0UlphNThWcXZvRGhQek5KRHEzMXBVbXFuVUtWSlNod3FVVVNFYStGY2pJR29Cc0JiTk1IQVZVN2pnOURnOGc9PSIsIm1hYyI6ImFiZmZhMjA3YWQxNjM2N2M1N2E2OGUyMjJlMWFhNGE4N2QxOGIyMTA5MzIwZjM5ZDhkMzhiZjI0ZmY4YmFmMzUifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/register" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{&quot;title&quot;:&quot;Ferrari Testarrosa&quot;, &quot;description&quot;:&quot;Very expensive car&quot;, &quot;price&quot;:&quot;145000&quot;, &quot;status&quot;:&quot;true&quot;}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1531256480000" />
+                <option name="domain" value="apilaravel.com.devel" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjMzaHpNK2xhMWl0bTJBWFBGU1NBQVE9PSIsInZhbHVlIjoiZW5VR0QzZ2p4MWR3K2ZURE5rR284M0E0UlphNThWcXZvRGhQek5KRHEzMXBVbXFuVUtWSlNod3FVVVNFYStGY2pJR29Cc0JiTk1IQVZVN2pnOURnOGc9PSIsIm1hYyI6ImFiZmZhMjA3YWQxNjM2N2M1N2E2OGUyMjJlMWFhNGE4N2QxOGIyMTA5MzIwZjM5ZDhkMzhiZjI0ZmY4YmFmMzUifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="PUT" />
+          <option name="urlBase" value="http://apilaravel.com.devel" />
+          <option name="urlPath" value="/api/cars/2" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Authorization" />
+                <option name="value" value="eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjEsImVtYWlsIjoiZGF2aWRAZGF2aWQuY29tIiwibmFtZSI6IkRhdmlkIiwic3VybmFtZSI6IkxvcGV6IiwiaWF0IjoxNTMxMTYwNTAyLCJleHAiOjE1MzE3NjUzMDJ9.ya7ptNZI793DrT4AvHOalIXVxhu9Tg_M246IFWiCoXc" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="json" />
+                <option name="value" value="{&quot;title&quot;:&quot;Ferrari Testarrosa&quot;, &quot;description&quot;:&quot;Very expensive car&quot;, &quot;price&quot;:&quot;145000&quot;, &quot;status&quot;:&quot;true&quot;}" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="json=" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Web Application.mydebug">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="FirefoxRemoteDebugType" factoryName="Firefox Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="FirefoxRemoteDebugType" factoryName="Firefox Remote">
+      <method />
+    </configuration>
+    <configuration default="false" name="mydebug" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="Wampu">
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Firefox Remote.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Web Application.mydebug" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c3f5cb6-9b6b-42f4-9f8f-bba029d414aa" name="Default" comment="" />
+      <created>1530726957058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530726957058</updated>
+      <workItem from="1530726958612" duration="1305000" />
+      <workItem from="1530728284822" duration="184000" />
+      <workItem from="1530728484038" duration="2089000" />
+      <workItem from="1530730646102" duration="1349000" />
+      <workItem from="1530814092397" duration="7010000" />
+      <workItem from="1531154801565" duration="7386000" />
+      <workItem from="1531242546692" duration="2543000" />
+      <workItem from="1531245477064" duration="4417000" />
+      <workItem from="1531414632476" duration="1507000" />
+      <workItem from="1531764219411" duration="610000" />
+      <workItem from="1531765901600" duration="2851000" />
+      <workItem from="1531769899067" duration="2676000" />
+      <workItem from="1531773912546" duration="608000" />
+      <workItem from="1531774531013" duration="328000" />
+      <workItem from="1531846974669" duration="1980000" />
+      <workItem from="1532024066538" duration="6083000" />
+      <workItem from="1532455879120" duration="2836000" />
+      <workItem from="1532623019441" duration="5564000" />
+      <workItem from="1532882574840" duration="355000" />
+      <workItem from="1532971031737" duration="2329000" />
+      <workItem from="1535992848262" duration="2708000" />
+      <workItem from="1536167026430" duration="4068000" />
+      <workItem from="1536220163184" duration="14536000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="75322000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32929516" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3072687" sideWeight="0.4978678" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2553305" sideWeight="0.50440526" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3215859" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2553305" sideWeight="0.50440526" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23294243" sideWeight="0.4955947" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15938166" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3975771" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="48" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="19" column="52" lean-forward="false" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CarController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Car.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/DatabaseSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="15" lean-forward="false" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="15" lean-forward="false" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Exceptions/Handler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="25" column="18" lean-forward="false" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/fa542851-be76-48a8-b017-52759557cd0c/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Car.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/EncryptCookies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/Request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/PasswordController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-372">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1104">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/RouteServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1039">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/services.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="204" column="46" lean-forward="false" selection-start-line="204" selection-start-column="46" selection-end-line="204" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/session.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AuthServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/EventServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/RedirectIfAuthenticated.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/VerifyCsrfToken.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/37de1ca3/fa542851-be76-48a8-b017-52759557cd0c/apilaravel.cars">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="39" lean-forward="true" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/seeds/DatabaseSeeder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/JwtAuthServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="26" column="55" lean-forward="false" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/37de1ca3/fa542851-be76-48a8-b017-52759557cd0c/apilaravel.users">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="20" lean-forward="false" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-224">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Helpers/JwtAuth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1311">
+          <caret line="59" column="11" lean-forward="false" selection-start-line="59" selection-start-column="11" selection-end-line="59" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/Authenticate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/UserController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1587">
+          <caret line="69" column="45" lean-forward="false" selection-start-line="69" selection-start-column="45" selection-end-line="69" selection-end-column="45" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/CarController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="168" column="44" lean-forward="true" selection-start-line="168" selection-start-column="44" selection-end-line="168" selection-end-column="44" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

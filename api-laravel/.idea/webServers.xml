@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5c8f22dc-d89f-410b-9c65-02cf77f75b99" name="ApiLaravel" url="http://apilaravel.com.devel/">
+        <fileTransfer port="0" mountedRoot="C:\wamp\www" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
